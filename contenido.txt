@@ -9,3 +9,5 @@ agregando formulario de inicio de seseion
 agregamos la logica
 agregamos recuperar contraseña
 ortografia
+
+ANIMACIONES IMPLEMENTADA
