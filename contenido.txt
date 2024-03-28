@@ -10,4 +10,4 @@ agregamos la logica
 agregamos recuperar contraseña
 ortografia
 
-ANIMACIONES IMPLEMENTADA
+ANIMACIONES IMPLEMENTAD
