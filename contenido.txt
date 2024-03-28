@@ -7,3 +7,5 @@ agregamos api key
 agregando archivos
 agregando formulario de inicio de seseion
 agregamos la logica
+agregamos recuperar contraseña
+ortografia
